@@ -12,12 +12,7 @@ This skill provides web search capabilities using the DuckDuckGo search engine v
 ## Installation
 
 ```bash
-pip install duckduckgo-search
-```
-
-Or the renamed package:
-```bash
-pip install ddgs
+pip install -U duckduckgo_search
 ```
 
 ## Core Functionality
